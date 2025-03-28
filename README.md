@@ -1,4 +1,4 @@
-# Lexical Adventures 🎮  
+# Lex programs
 *A collection of Lex programs to analyze code and scan languages – built for learning and fun!*  
 
 Hi! This repository houses **four Lex programs** I created to explore how compilers understand code.
